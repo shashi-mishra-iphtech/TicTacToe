@@ -62,8 +62,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 The initial implementation of this Tic Tac Toe game was inspired by the official React.js tutorial. Many thanks to the React.js community for their contributions and support.
 
-## Contact
-
-If you have any questions, feel free to contact the project maintainer at hr@iphtechnologies.com.
+---
 
 Enjoy playing the game!
