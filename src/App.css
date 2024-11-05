@@ -1,0 +1,46 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
+.container .heading {
+  margin-top: 20px;
+  margin-bottom: 80px;
+  font-size: 6rem;
+  letter-spacing: 2px;
+  font-family: "Lilita One", cursive;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(#f9d39c, #ffb753);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+}
+.container h2 {
+  color: #fff;
+  font-family: "Lilita One", cursive;
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+.container h2 span {
+  color: #11aaec;
+  font-weight: 600;
+}
+.winner {
+  margin-top: 25px;
+  padding: 10px;
+}
+.board-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+.btn {
+  width: 30%;
+  font-weight: 700;
+  font-size: 18px;
+  margin-top: 20px;
+  font-family: "Lilita One", cursive;
+  letter-spacing: 2px;
+}
