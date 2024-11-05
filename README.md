@@ -13,7 +13,7 @@ To run this game on your local machine, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/IPH-Technologies-Pvt-Ltd/Tic-Tac-Toe-ReactJs.git
+   git clone https://github.com/shashi-mishra-iphtech/TicTacToe.git
    ```
 
 2. Navigate to the project directory:
